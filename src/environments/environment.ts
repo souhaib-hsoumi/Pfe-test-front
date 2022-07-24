@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  kanbanAppUrl: 'http://172.29.4.126:8085'
+  kanbanAppUrl: 'http://localhost:8085'
 };
 
 /*
